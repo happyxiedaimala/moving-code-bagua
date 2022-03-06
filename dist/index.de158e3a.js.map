@@ -1,0 +1,1 @@
+{"mappings":"AAAA,GAAG,CAAC,IAAI,GAAG,QAAQ,CAAC,aAAa,CAAC,CAAO;AAEzC,IAAI,CAAC,SAAS,GAAG,CAAC","sources":["src/main.js"],"sourcesContent":["let demo = document.querySelector('#demo');\r\n\r\ndemo.innerHTML = 2"],"names":[],"version":3,"file":"index.de158e3a.js.map","sourceRoot":"/__parcel_source_root/"}

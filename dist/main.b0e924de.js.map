@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["demo","document","querySelector","innerHTML"],"mappings":";AAAA,IAAIA,EAAOC,SAASC,cAAc,SAElCF,EAAKG,UAAY","file":"main.b0e924de.js","sourceRoot":"..\\src","sourcesContent":["let demo = document.querySelector('#demo');\r\n\r\ndemo.innerHTML = 2;"]}
